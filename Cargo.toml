@@ -1,0 +1,18 @@
+[package]
+name = "sha1_cracker"
+version = "0.1.0"
+edition = "2021"
+authors = ["Wholesome Ghoul <wholesome.ghoul@gmail.com"]
+description = "sha1 cracker"
+homepage = "https://github.com/wholesome-ghoul/sha1_cracker"
+documentation = "https://docs.rs/sha1_cracker"
+repository = "https://github.com/wholesome-ghoul/sha1_cracker"
+readme = "README.md"
+keywords =["sha1", "brute force", "cracker"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.0.14", features = ["derive"] }
+sha1 = "0.10.5"
+hex = "0.4.3"
