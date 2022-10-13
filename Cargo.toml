@@ -8,7 +8,7 @@ homepage = "https://github.com/wholesome-ghoul/sha1_cracker"
 documentation = "https://docs.rs/sha1_cracker"
 repository = "https://github.com/wholesome-ghoul/sha1_cracker"
 readme = "README.md"
-keywords =["sha1", "brute force", "cracker"]
+keywords =["sha1", "cracker"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
